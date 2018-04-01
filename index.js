@@ -14,8 +14,6 @@ app.use(cors());
 
 // configure
 app.set('port', (process.env.PORT || 5000));
-app.set('views', __dirname + '/views'); // views is directory for all template files
-app.set('view engine', 'ejs');
 
 // routes
 app.post('/', (request, response) => {

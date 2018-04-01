@@ -1,7 +1,7 @@
 {
-  "name": "Simple E-mail server",
-  "description": "Simple E-mail server",
-  "repository": "",
+  "name": "Simple e-mail server",
+  "description": "Simple e-mail server",
+  "repository": "https://github.com/Fafruch/simple-email-server",
   "logo": "",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"

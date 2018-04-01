@@ -1,7 +1,7 @@
 {
   "name": "simple-email-server",
   "version": "0.0.1",
-  "description": "Simple E-mail server",
+  "description": "Simple e-mail server",
   "engines": {
     "node": "8.9.1"
   },
@@ -18,6 +18,10 @@
   "devDependencies": {
     "request": "^2.81.0",
     "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fafruch/simple-email-server"
   },
   "keywords": [
     "node",
