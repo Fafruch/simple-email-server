@@ -1,0 +1,8 @@
+{
+  "name": "Simple E-mail server",
+  "description": "Simple E-mail server",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
