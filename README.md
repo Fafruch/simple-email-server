@@ -1,1 +1,1 @@
-# Simple E-mail server# simple-email-server
+# Simple node.js e-mail server
